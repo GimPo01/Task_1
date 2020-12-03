@@ -1,0 +1,2 @@
+indexes = [i for i,x in enumerate([1,2,3,1,2,3]) if x == 2]
+print(indexes)
